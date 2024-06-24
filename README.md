@@ -12,8 +12,11 @@ RMSE=(1𝑁∑𝑖=1𝑁(𝑦𝑖−𝑦ˆ𝑖)2)12
 where 𝑦ˆ𝑖
 is the predicted value and 𝑦𝑖 is the original value for each instance 𝑖.
 
-submission 1 - Initial process with RandomForestRegressor
-submission 2 *best* - Using HistGradientBoostingRegressor
-submission 3 - Using RandomizedSearchCV and stack ensemble
 
-Placed top 25% in global competion.
+*submission 1* - Initial process with RandomForestRegressor
+
+*submission 2* *best* - Using HistGradientBoostingRegressor
+
+*submission 3* - Using RandomizedSearchCV and stack ensemble
+
+Placed **top 25%** in global competion.
