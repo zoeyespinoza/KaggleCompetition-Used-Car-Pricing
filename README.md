@@ -3,14 +3,12 @@
 
 https://www.kaggle.com/competitions/kagglex-cohort4
 
-Root Mean Squared Error (RMSE)
+- Submissions were scored on the root mean squared error. RMSE is defined as:
 
-Submissions are scored on the root mean squared error. RMSE is defined as:
+- RMSE=(1𝑁∑𝑖=1𝑁(𝑦𝑖−𝑦ˆ𝑖)2)12
 
-RMSE=(1𝑁∑𝑖=1𝑁(𝑦𝑖−𝑦ˆ𝑖)2)12
-
-where 𝑦ˆ𝑖
-is the predicted value and 𝑦𝑖 is the original value for each instance 𝑖.
+- where 𝑦ˆ𝑖
+- is the predicted value and 𝑦𝑖 is the original value for each instance 𝑖.
 
 
 *submission 1* - Initial process with RandomForestRegressor
