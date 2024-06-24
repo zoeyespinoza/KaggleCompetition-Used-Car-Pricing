@@ -17,4 +17,4 @@ https://www.kaggle.com/competitions/kagglex-cohort4
 
 *submission 3* - Using RandomizedSearchCV and stack ensemble
 
-Placed **top 25%** in global competion.
+Placed **top 25%** in global competition.
