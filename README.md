@@ -1,5 +1,6 @@
 # KaggleCompetition-Used-Car-Pricing
 
+Competition skill assessment, given a dataset of 36183 entries, must predict the price of a used vehicle.
 
 https://www.kaggle.com/competitions/kagglex-cohort4
 
